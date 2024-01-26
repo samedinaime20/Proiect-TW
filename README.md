@@ -6,4 +6,4 @@ Cerinte proiect:
 accesate printr-un ORM 
 - Operații expuse asupra entităților printr-o interfață REST
 - Front-end SPA cu React.js (sau Angular 2.0)
-Am incercat :<
+
